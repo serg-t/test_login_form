@@ -18,4 +18,4 @@
 
 
 
-// this test web-page created for TR LLC Co.
+// this test web-page created for TR Logic LLC.
